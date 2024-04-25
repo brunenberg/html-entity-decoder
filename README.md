@@ -10,15 +10,15 @@ HTML Entity Decoder is a desktop application designed to convert HTML entities w
 
 ## Installation
 
-To install HTML Link Decoder, download the latest release from the GitHub repository and extract the contents. Inside the `dist` folder, you will find the executable file for the application.
+To install HTML Entity Decoder, download the latest release from the GitHub repository and extract the contents. Inside the `dist` folder, you will find the executable file for the application.
 
 ## Shortcut for Easy Access
 
-For your convenience, a shortcut named `HTML Link Decoder.lnk` is included in the project. You can place this shortcut on your desktop or any other preferred location for quick access to the HTML Link Decoder application. Simply double-click the shortcut to launch the application without navigating to the installation directory.
+For your convenience, a shortcut named `HTML Entity Decoder.lnk` is included in the project. You can place this shortcut on your desktop or any other preferred location for quick access to the HTML Entity Decoder application. Simply double-click the shortcut to launch the application without navigating to the installation directory.
 
 ## Usage
 
-1. Run the `HTML Link Decoder.exe` file from the `dist` folder.
+1. Run the `html_entity_encoder.exe` file.
 2. Enter the HTML-encoded URL into the input field.
 3. Click the 'Decode' button to decode the URL.
 4. The decoded URL will appear in the output field below.
@@ -27,7 +27,7 @@ For your convenience, a shortcut named `HTML Link Decoder.lnk` is included in th
 
 ## Screenshot
 
-![image](https://github.com/brunenberg/html-link-decoder/assets/94843584/d4a4e2e1-7e3d-4f23-8d54-8a93fb7db809)
+![image](https://github.com/brunenberg/html-entity-decoder/assets/94843584/90809d21-1394-4189-a7f7-1a40e1e0cf42)
 
 
 ## Building from Source
