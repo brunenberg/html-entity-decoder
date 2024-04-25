@@ -23,8 +23,7 @@ To install HTML Entity Decoder, download the latest release from the GitHub repo
 
 ## Screenshot
 
-![image](https://github.com/brunenberg/html-entity-decoder/assets/94843584/90809d21-1394-4189-a7f7-1a40e1e0cf42)
-
+![image](https://github.com/brunenberg/html-entity-decoder/assets/94843584/fc2051fb-5066-4098-b572-8a4f3eb4ad11)
 
 ## Building from Source
 
