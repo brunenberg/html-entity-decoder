@@ -10,11 +10,7 @@ HTML Entity Decoder is a desktop application designed to convert HTML entities w
 
 ## Installation
 
-To install HTML Entity Decoder, download the latest release from the GitHub repository and extract the contents. Inside the `dist` folder, you will find the executable file for the application.
-
-## Shortcut for Easy Access
-
-For your convenience, a shortcut named `HTML Entity Decoder.lnk` is included in the project. You can place this shortcut on your desktop or any other preferred location for quick access to the HTML Entity Decoder application. Simply double-click the shortcut to launch the application without navigating to the installation directory.
+To install HTML Entity Decoder, download the latest release from the GitHub repository and extract the contents. You will find the executable file for the application.
 
 ## Usage
 
