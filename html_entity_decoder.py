@@ -2,10 +2,10 @@ import tkinter as tk
 import html
 import pyperclip
 
-class HTMLLinkDecoderApp:
+class HTMLEntityDecoderApp:
     def __init__(self, root):
         self.root = root
-        self.root.title('HTML Link Decoder')
+        self.root.title('HTML Entity Decoder')
 
         tk.Label(self.root, text='Enter Encoded URL:').pack(pady=5)
         self.entry = tk.Entry(self.root, width=50)
@@ -46,5 +46,5 @@ class HTMLLinkDecoderApp:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = HTMLLinkDecoderApp(root)
+    app = HTMLEntityDecoderApp(root)
     root.mainloop()
